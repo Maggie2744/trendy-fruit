@@ -4,6 +4,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
 }
 
 *, *::before, *::after {
@@ -15,3 +16,25 @@ html {
 @-o-viewport { width: device-width; scale: 1; }
 @-webkit-viewport { width: device-width; scale: 1; }
 @viewport { width: device-width; scale: 1; }
+
+body {
+  margin: 0
+}
+
+article:nth-child(1)
+
+article:nth-child(2)
+
+article:nth-child(3)
+
+h2:nth-child(1) {
+  font-family: 'Rammetto One', cursive;
+}
+
+h2:nth-child(2) {
+  font-family: 'Gravitas One', cursive;
+}
+
+h2:nth-child(3) {
+  font-family: 'Comfortaa', cursive;
+}
