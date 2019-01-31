@@ -27,14 +27,14 @@ article:nth-child(2)
 
 article:nth-child(3)
 
-h2:nth-child(1) {
+.h2-1 {
   font-family: 'Rammetto One', cursive;
 }
 
-h2:nth-child(2) {
+.h2-2 {
   font-family: 'Gravitas One', cursive;
 }
 
-h2:nth-child(3) {
+.h2-3 {
   font-family: 'Comfortaa', cursive;
 }
