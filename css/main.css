@@ -21,12 +21,6 @@ body {
   margin: 0
 }
 
-article:nth-child(1)
-
-article:nth-child(2)
-
-article:nth-child(3)
-
 .h2-1 {
   font-family: 'Rammetto One', cursive;
 }
@@ -37,4 +31,16 @@ article:nth-child(3)
 
 .h2-3 {
   font-family: 'Comfortaa', cursive;
+}
+
+.card-1 {
+  background-color: #e97065;
+}
+
+.card-2 {
+  background-color: #fbd25e;
+}
+
+.card-3 {
+  background-color: #e86033;
 }
